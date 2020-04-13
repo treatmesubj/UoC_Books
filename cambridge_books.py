@@ -4,7 +4,8 @@ import os
 
 """
 https://www.cambridge.org/core/what-we-publish/textbooks
-book must have online view available
+book must have online view available.
+You may still be able to do this if you use an archived snapshot of the site, idk.
 """
 
 headers = {
